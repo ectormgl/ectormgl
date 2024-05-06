@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ector-Mgl](https://github.com/Ector-Mgl)
+- 👨‍💻 I’m also have a back-end specified repository, you can see here: [GitLab](https://gitlab.com/ectormgl)
 
 - 📫 How to reach me **ectorjobs1@gmail.com**
 
