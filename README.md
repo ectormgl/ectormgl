@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  https://www.linkedin.com/in/ector-magalh%C3%A3es-54b4472b3/
+  <a href="https://www.linkedin.com/in/ector-magalh%C3%A3es-54b4472b3/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Linkedin-logo-blue-In-square-40px.png?20231202105023" alt="linkedin" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
