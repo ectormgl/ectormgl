@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  
+  https://www.linkedin.com/in/ector-magalh%C3%A3es-54b4472b3/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
