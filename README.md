@@ -26,6 +26,6 @@
   
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ector-mgl&show_icons=true&locale=en&layout=compact" alt="ector-mgl" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ectormgl&show_icons=true&locale=en&layout=compact" alt="ector-mgl" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ector-mgl&show_icons=true&locale=en" alt="ector-mgl" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ectormgl&show_icons=true&locale=en" alt="ector-mgl" /></p>
