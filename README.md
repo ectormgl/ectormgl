@@ -4,7 +4,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ectormgl" alt="ector-magalhaes-profile" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
-- https://belem-guide-7ef0be91ed89.herokuapp.com/
 - 👨‍💻 I’m also have a back-end specified repository, you can see here: [GitLab](https://gitlab.com/ectormgl)
 
 - 📫 How to reach me **ectorjobs1@gmail.com**
